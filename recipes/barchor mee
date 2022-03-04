@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>Recipe:barchor mee</title>
+            <meta charset="UTF-8">
+        </head>
+        <body>
+            <h1>barchor mee</h1>
+                <img src="">
+                <h2>Description</h2>
+                    <h3>Ingredients</h3>
+                        <ul>
+                            <li>noodles</li>
+                            <li>soup</li>
+                        </ul>
+                    <h3>Steps</h3>
+                        <ol>
+                            <li>put soup in bowl</li>
+                            <li>put noodles in bowl</li>
+                            <li>chuck bowl in microwave for 8 minutes</li>
+            </body>
+    </html>

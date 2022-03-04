@@ -1,2 +1,3 @@
 # odin-recipes
-project for The Odin Project (Foundations)
+project for The Odin Project (Foundations) storing information about different recipes
+
